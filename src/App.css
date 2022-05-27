@@ -1,0 +1,71 @@
+
+.box{
+  width: 50%;
+  border: 2px solid black;
+  padding: 40px;
+  height: 450px;
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+.reset{
+ width: 20%;
+  height: 10%;
+  margin-right: 30px;
+}
+
+ .set{
+   width: 50px;
+   height: 20%;
+   padding: 10px;
+   margin :2px;
+   gap:200px;
+   margin-left: 200px;
+   
+ 
+ }
+ .buy{
+  width: 500px;
+  height: 20%;
+  padding: 10px;
+  margin :2px;
+  gap:200px;
+  margin-left: 280px;
+  margin-bottom: 20%;
+  position: absolute;
+  top: 470px;
+
+ }
+.shoppingcart{
+  width: 20%;
+  border: 2px solid black;
+  padding: 40px;
+  height: 450px;
+  margin-left: 750px;
+  margin-right: 300px;
+  border-radius: 20px;
+  margin-trim: 30px;
+  margin-bottom: 500px;
+  position: absolute;
+  top: 30px;
+
+
+}
+.removeShoppingCart{
+ margin-left: 20px;
+ height: 20px;
+}
+
+.items{
+  width: 500px;
+  border: 2px solid black;
+  padding: 10px;
+  height: 300px;
+  border-radius: 5px;
+  display: grid;
+  grid-template-rows: 30% 30% 30%;
+  grid-template-columns:repeat(3,35%); 
+ 
+}
+
+

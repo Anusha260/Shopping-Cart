@@ -1,0 +1,28 @@
+
+ .subbox1{
+    width: 30%;
+    border: 2px solid black;
+    padding: 30px;
+    height: 80%;
+    margin-right: 10px;
+    
+
+} 
+.card1{
+   
+    border: 2px solid black;
+    margin-right: 10px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    justify-content: center;
+    margin: 0px;
+}
+.card2{
+    border: 2px solid black;
+    margin-right: 20px;
+    padding: 20px;
+    width: 150px;
+    height: 120px;
+    text-align: center;
+}
