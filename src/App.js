@@ -80,7 +80,7 @@ export default class App extends React.Component {
         
         </div>
         <div className="buy">
-        <button onClick={this.buy} disabled={this.state.cartItems.length==0}>buy</button>
+        <button onClick={this.buy} disabled={this.state.cartItems.length===0}>buy</button>
         </div>
   
       </div>
